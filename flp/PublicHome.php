@@ -11,13 +11,8 @@
 					&nbsp;&nbsp;<font size="10" color="green">HUMMING</font><font size="5" color="green">bird</font>
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					&nbsp;
-					<select>
-						<option  disabled selected >Menu</option>
-						<option value="aboutus.php">About</option>
-						<option value="condition.php">Conditions</option>
-						<option value="storesinfo.php">Stores info</option>
-					</select>|
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					<a href="PublicHome.php"><font size="5" color="red">Home</font></a> |
 					<a href="Login.php"><font size="5" color="red">Login</font></a>     |
 					<a href="Registration.php"><font size="5" color="red">Registration</font></a> 
