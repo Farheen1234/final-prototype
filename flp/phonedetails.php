@@ -1,6 +1,6 @@
 <html>
 	<body >
-		<table align="center" border="1px" height="90%" width="90%" >
+		<table align="center" border="1px" height="90%" width="90%">
 			<tr height="50px">
 				<td colspan="3">
 					<a href="PublicHome.php"><img valign="top" src="picture/HB2.jpg" height="50px" width="150px"></a>
@@ -60,7 +60,6 @@
 							function countDown(secs,elem) {
 							var element = document.getElementById(elem);
 							element.innerHTML = "Please wait for "+secs+" seconds for bitting time";
-							
 							if(secs < 1) 
 							{
 								clearTimeout(timer);
@@ -72,7 +71,7 @@
 							}
 					</script>
 					<div id="status"></div>
-			<script>countDown(300,"status");</script>
+			<script>countDown(5,"status");</script>
 
 			
 			<tr height="50px" align="center">

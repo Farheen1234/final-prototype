@@ -43,7 +43,7 @@
                                     <tr>
                                         <td colspan="2">
                                             <br>
-                                            <a href="afterlogin.php"><input type="submit" ></a>
+                                            <a href="shoppage.php"><input type="submit" ></a>
 											&nbsp;&nbsp;<a href="ForgotPassword.php">Forget Password? </a>
                                         </td>
                                     </tr>

@@ -26,16 +26,9 @@
                             <fieldset>            
                                 <legend>REGISTRATION</legend>
                                 <table>
-                                    <tr >
-                                        <td valign="top" align="center" >
-										<img src="picture/default" alt="" height="250" width="200"/><br/>
-										<input type="file">
-										<input type="submit" value="Update">
-										</td>
-									</tr>
-									<tr>
-										
-                                        <td>Name:<input name="name"></td>
+                                    <tr>
+                                        <td>Name</td>
+                                        <td>:<input name="name"></td>
                                     </tr>
                                     <tr><td colspan="2"><hr></td></tr>
                                     <tr>
